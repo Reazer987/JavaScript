@@ -20,10 +20,6 @@ update()
 function search() {
    serchedBtn.addEventListener('click',()=>{
       let serchedTown = document.getElementById('searchText').value;
-     
-
-     
-
    })
 }
 search();
